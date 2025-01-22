@@ -9,12 +9,11 @@ import FavoriteMovieList from './components/FavoriteMovieList';
 import axios from 'axios';
 import useLocalStorage from './hooks/useLocalStorage';
 import { AddMovieForm } from './components/AddMovieForm';
-import useAxios from './hooks/useAxios';
 
 const App = (props) => {
   const [movies, setMovies] = useState([]);
   const [darkMode, setDarkMode] = useState(true);
-  const [value, setLocalStorage] = useLocalStorage('s11d3', darkMode);
+  const [setLocalStorage] = useLocalStorage('s11d3', darkMode);
   const [favMovies, setFavMovies] = useState([]);
   const { push } = useHistory();
 
