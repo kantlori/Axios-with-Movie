@@ -88,8 +88,7 @@ const App = (props) => {
             <Route path="/movies/:id">
               <Movie
                 addToFavorites={addToFavorites}
-                deleteMovie={deleteMovie}
-              />
+                deleteMovie={deleteMovie} />
             </Route>
             <Route exact path="/movies">
               <MovieList movies={movies} />
