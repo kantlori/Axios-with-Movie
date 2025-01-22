@@ -1,0 +1,204 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 18,
+  "numPassedTests": 18,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1737574638728,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde /movies/edit/:id routeu tanımlanmış",
+          "status": "passed",
+          "title": "App.jsxde /movies/edit/:id routeu tanımlanmış",
+          "duration": 97,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " EditMovieForm.jsxde useParmas hooku kullanılmış",
+          "status": "passed",
+          "title": "EditMovieForm.jsxde useParmas hooku kullanılmış",
+          "duration": 25,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Edit Movie Routeunda ilgili film datası geliyor.",
+          "status": "passed",
+          "title": "Edit Movie Routeunda ilgili film datası geliyor.",
+          "duration": 275,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Edit Movie editlenmiş filmi başarılı bir şekilde submit ediyor ve film detay sayfasına yönleniyor",
+          "status": "passed",
+          "title": "Edit Movie editlenmiş filmi başarılı bir şekilde submit ediyor ve film detay sayfasına yönleniyor",
+          "duration": 298,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Movie componentine sil butonu eklenmiş",
+          "status": "passed",
+          "title": "Movie componentine sil butonu eklenmiş",
+          "duration": 188,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Film başarılı bir şekilde siliyor ve tüm filmler sayfasını açıyor.",
+          "status": "passed",
+          "title": "Film başarılı bir şekilde siliyor ve tüm filmler sayfasını açıyor.",
+          "duration": 255,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " AddMovieForm componenti için AddMovieForm.jsc dosyası eklenmiş.",
+          "status": "passed",
+          "title": "AddMovieForm componenti için AddMovieForm.jsc dosyası eklenmiş.",
+          "duration": 14,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde /movies/add routeu tanımlanmış",
+          "status": "passed",
+          "title": "App.jsxde /movies/add routeu tanımlanmış",
+          "duration": 13,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni film ekle butonu film ekle sayfasını açıyor.",
+          "status": "passed",
+          "title": "Yeni film ekle butonu film ekle sayfasını açıyor.",
+          "duration": 158,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni film ekle sayfasında label kullanılmış ve ilgili input alanına bağlanmış.",
+          "status": "passed",
+          "title": "Yeni film ekle sayfasında label kullanılmış ve ilgili input alanına bağlanmış.",
+          "duration": 148,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni film ekleniyor ve movie sayfasına yönlendiriyor.",
+          "status": "passed",
+          "title": "Yeni film ekleniyor ve movie sayfasına yönlendiriyor.",
+          "duration": 1043,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Filmler favorilere ekleniyor.",
+          "status": "passed",
+          "title": "Filmler favorilere ekleniyor.",
+          "duration": 218,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Filmler favorilere 2. kez eklenemiyor.",
+          "status": "passed",
+          "title": "Filmler favorilere 2. kez eklenemiyor.",
+          "duration": 363,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Film silinince favorilerden de siliniyor",
+          "status": "passed",
+          "title": "Film silinince favorilerden de siliniyor",
+          "duration": 343,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " DarkMode \"dark bg-slate-900 h-screen\" classlarını idsi main-container olan dive ekliyor",
+          "status": "passed",
+          "title": "DarkMode \"dark bg-slate-900 h-screen\" classlarını idsi main-container olan dive ekliyor",
+          "duration": 18,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " DarkMode başlangıçta on, tıklanınca off oluyor",
+          "status": "passed",
+          "title": "DarkMode başlangıçta on, tıklanınca off oluyor",
+          "duration": 88,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Ana Sayfa Dark Mode On yazarak başlıyor, tıklanınca Dark Mode Off yazıyor",
+          "status": "passed",
+          "title": "Ana Sayfa Dark Mode On yazarak başlıyor, tıklanınca Dark Mode Off yazıyor",
+          "duration": 87,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Dark Mode değeri localstorageda s11d3 anahtarı ile tutuluyor",
+          "status": "passed",
+          "title": "Dark Mode değeri localstorageda s11d3 anahtarı ile tutuluyor",
+          "duration": 73,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1737574911147,
+      "endTime": 1737574914858,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-kryrnt/src/__tests__/index.test.jsx"
+    }
+  ]
+}
